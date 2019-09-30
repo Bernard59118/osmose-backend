@@ -1,0 +1,15 @@
+Hello,
+
+Osmose reports an error during a River <-> junction junction.
+
+but when there is a ford tag, it should not generate an error.
+
+https://www.openstreetmap.org/way/146351970
+
+in the case below, Osmose proposes to add a "bridge"
+Osmosis
+* Road above ground without bridge * *Route au dessus du sol sans pont*
+cordially
+Bernard59118
+
+https://www.openstreetmap.org/way/146351970
